@@ -1,4 +1,12 @@
 In AWS S3 Lab 1
-I made:
-- A bucket
-- 
+
+- I created a bucket in Amazon S3.
+- Configured the bucket to host a static website.
+- Uploaded content to the bucket. 
+  (Three object files - index, error, css)
+- Enabled public access to bucket objects.
+- Securely shared a bucket object by using a presigned URL.
+TOdo -
+•Secure a bucket by using a bucket policy.
+•Update the website.
+•View object versions in the Amazon S3 console
